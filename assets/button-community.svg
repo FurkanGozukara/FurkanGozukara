@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="112" viewBox="0 0 400 112" role="img" aria-labelledby="title desc">
+  <title id="title">Join Community</title>
+  <desc id="desc">The SECourses Discord community.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#25284D"/><stop offset="1" stop-color="#191E38"/></linearGradient>
+    <linearGradient id="icon" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#B1A7FF"/><stop offset="1" stop-color="#7D83F4"/></linearGradient>
+  </defs>
+  <rect x="1" y="1" width="398" height="110" rx="21" fill="url(#bg)" stroke="#62699E" stroke-width="2"/>
+  <path d="M23 2H377" stroke="#D1CCFF" stroke-opacity=".24" stroke-width="2"/>
+  <rect x="20" y="24" width="64" height="64" rx="17" fill="url(#icon)"/>
+  <path d="M41 39h23a8 8 0 0 1 8 8v15a8 8 0 0 1-8 8H51l-10 7v-7a8 8 0 0 1-8-8V47a8 8 0 0 1 8-8Z" fill="none" stroke="#262C58" stroke-width="2.8" stroke-linejoin="round"/><g fill="#262C58"><circle cx="43" cy="55" r="2.6"/><circle cx="53" cy="55" r="2.6"/><circle cx="63" cy="55" r="2.6"/></g>
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <text x="101" y="51" fill="#F6F5FF" font-size="29" font-weight="700" letter-spacing="-.4">Join Community</text>
+    <text x="102" y="78" fill="#BAC1EA" font-size="18">SECourses Discord</text>
+  </g>
+  <path d="M359 56H377m-7-7 7 7-7 7" fill="none" stroke="#B7B3FF" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
