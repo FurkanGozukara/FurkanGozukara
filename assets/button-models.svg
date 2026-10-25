@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="112" viewBox="0 0 400 112" role="img" aria-labelledby="title desc">
+  <title id="title">Browse Models</title>
+  <desc id="desc">Models and experiments on Hugging Face.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#3C2A20"/><stop offset="1" stop-color="#261E24"/></linearGradient>
+    <linearGradient id="icon" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#FFDE8E"/><stop offset="1" stop-color="#F3B459"/></linearGradient>
+  </defs>
+  <rect x="1" y="1" width="398" height="110" rx="21" fill="url(#bg)" stroke="#8D6A3E" stroke-width="2"/>
+  <path d="M23 2H377" stroke="#FFE6AF" stroke-opacity=".24" stroke-width="2"/>
+  <rect x="20" y="24" width="64" height="64" rx="17" fill="url(#icon)"/>
+  <g fill="none" stroke="#51351B" stroke-width="2.8" stroke-linecap="round" stroke-linejoin="round"><path d="m52 37 18 10-18 10-18-10Z"/><path d="m34 56 18 10 18-10M34 65l18 10 18-10"/><path d="M52 57v18" stroke-opacity=".65"/></g>
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <text x="101" y="51" fill="#FFF9EA" font-size="29" font-weight="700" letter-spacing="-.4">Browse Models</text>
+    <text x="102" y="78" fill="#D7BE96" font-size="18">Hugging Face releases</text>
+  </g>
+  <path d="M359 56H377m-7-7 7 7-7 7" fill="none" stroke="#F6CF8B" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
