@@ -685,11 +685,11 @@ def render_svg(state, mobile=False):
             for line, label in enumerate(card["mobile_sub"]):
                 parts.append(svg_text(20, 171 + line * 23, label, 17 if card["stale"] else 21, "#F5BC78" if card["stale"] else "#A8BDD1"))
             parts.append('</g>')
-    footer = "Automatically refreshed hourly · Source check times and details below."
+    footer = "Automatically refreshed daily · Source check times and details below."
     if stale_count:
-        footer = f"Auto-refresh hourly · {stale_count} metric(s) awaiting refresh; last valid values retained."
+        footer = f"Auto-refresh daily · {stale_count} metric(s) awaiting refresh; last valid values retained."
     if mobile:
-        parts += [svg_text(24, 1226, "Automatically refreshed hourly", 20, "#91AAC1"),
+        parts += [svg_text(24, 1226, "Automatically refreshed daily", 20, "#91AAC1"),
                   svg_text(24, 1252, (f"{stale_count} metric(s) awaiting refresh · details below" if stale_count else "Source check times and details below."), 18, "#91AAC1")]
     else:
         parts.append(svg_text(28, 532, footer, 14, "#829CB4"))
@@ -697,10 +697,10 @@ def render_svg(state, mobile=False):
 
 
 def readme_block(state):
-    revision = hashlib.sha256(json.dumps(state, sort_keys=True).encode()).hexdigest()[:12]
+    revision = hashlib.sha256((render_svg(state) + render_svg(state, mobile=True)).encode("utf-8")).hexdigest()[:12]
     description = "; ".join(LABELS[k] + ": " + exact_value(state["metrics"][k]) for k in DISPLAY_KEYS)
     lines = [f'<p align="center">\n  <picture>\n    <source media="(max-width: 640px)" srcset="https://raw.githubusercontent.com/FurkanGozukara/FurkanGozukara/main/assets/stats-dashboard-mobile.svg?v={revision}" />\n    <img src="https://raw.githubusercontent.com/FurkanGozukara/FurkanGozukara/main/assets/stats-dashboard.svg?v={revision}" width="100%" alt="{escape(description, quote=True)}" />\n  </picture>\n</p>',
-             f'**Automatically refreshed hourly** · Last run: **{local_time(state["generated_at"])}** · [Refresh status / run now]({WORKFLOW_URL})',
+             f'**Automatically refreshed daily** · Last run: **{local_time(state["generated_at"])}** · [Refresh status / run now]({WORKFLOW_URL})',
              '<details>\n<summary><strong>Statistics sources, exact figures & last successful checks</strong></summary>\n',
              '| Metric | Public figure | Last successful check (Türkiye) | Status | Source |',
              '| :--- | ---: | :--- | :--- | :--- |']
@@ -711,7 +711,7 @@ def readme_block(state):
         status = {"fresh": "Updated", "stale": "Awaiting refresh; last valid value", "unavailable": "Unavailable"}[metric["status"]]
         lines.append(f'| {LABELS[key]} | {exact_value(metric)} | {local_time(metric.get("checked_at"))} | {status} | {source} |')
     lines += ['', 'YouTube subscriber counts are rounded by YouTube. Discord membership is approximate. Wan_GGUF downloads cover that model repository’s rolling monthly window. Academic articles are those listed in the university record.', '',
-              'The workflow fetches these public sources hourly and regenerates both dashboard layouts. GitHub scheduling and image caching can delay display; reloading the profile does not trigger a new upstream fetch. If a source fails, its last valid value and check time are retained. No service API keys are required.', '',
+              'The workflow fetches these public sources once every 24 hours, scheduled for 03:17 Türkiye time (00:17 UTC), and regenerates both dashboard layouts. A manual refresh is also available. GitHub scheduling and image caching can delay display; reloading the profile does not trigger a new upstream fetch. If a source fails, its last valid value and check time are retained. No service API keys are required.', '',
               '[Machine-readable statistics](./assets/profile-stats.json) · [Updater source](./scripts/update_profile_stats.py) · [Refresh workflow](' + WORKFLOW_URL + ')', '', '</details>']
     return "\n\n".join(lines[:3]) + "\n" + "\n".join(lines[3:])
 
