@@ -2,14 +2,12 @@
 Profile refreshed: 25 October 2026.
 Current affiliation and selected publications: https://apbs.mersin.edu.tr/profiles_mail/furkangozukara
 Project capabilities and course availability are documented in the linked repositories.
-Keep audience counts out of static copy; use source pages for current figures.
+Dashboard figures are a dated public snapshot. Linked GitHub/Hugging Face counters and analytics update through their image providers.
 -->
 
 <p align="center">
-  <img src="./assets/profile-banner.svg" width="100%" alt="SECourses — Research. Build. Teach. Making advanced AI practical. Dr. Furkan Gözükara." />
+  <img src="./assets/profile-banner.svg" width="100%" alt="Dr. Furkan Gözükara — SECourses. Research. Build. Teach. Making advanced AI practical." />
 </p>
-
-<h1 align="center">Dr. Furkan Gözükara</h1>
 
 <p align="center">
   <strong>Assistant Professor of Computer Engineering at <a href="https://apbs.mersin.edu.tr/profiles_mail/furkangozukara">Mersin University</a></strong><br />
@@ -23,14 +21,75 @@ Keep audience counts out of static copy; use source pages for current figures.
 </p>
 
 <p align="center">
-  <a href="https://www.youtube.com/@SECourses"><img src="https://img.shields.io/badge/Watch-SECourses-EF4444?style=flat-square&amp;logo=youtube&amp;logoColor=white" alt="Watch SECourses on YouTube" /></a>
-  <a href="https://huggingface.co/MonsterMMORPG"><img src="https://img.shields.io/badge/Explore-Models-F5B84B?style=flat-square&amp;logo=huggingface&amp;logoColor=white" alt="Explore models on Hugging Face" /></a>
-  <a href="https://discord.com/servers/software-engineering-courses-secourses-772774097734074388"><img src="https://img.shields.io/badge/Join-Community-5865F2?style=flat-square&amp;logo=discord&amp;logoColor=white" alt="Join the SECourses Discord community" /></a>
+  <a href="https://www.youtube.com/@SECourses"><img src="./assets/button-tutorials.svg" width="190" alt="Watch tutorials — SECourses on YouTube" /></a>
+  <a href="https://github.com/FurkanGozukara/Stable-Diffusion"><img src="./assets/button-tools.svg" width="190" alt="Explore AI tools — guides and workflows" /></a>
+  <a href="https://huggingface.co/MonsterMMORPG"><img src="./assets/button-models.svg" width="190" alt="Browse models — Hugging Face releases" /></a>
+  <a href="https://discord.com/servers/software-engineering-courses-secourses-772774097734074388"><img src="./assets/button-community.svg" width="190" alt="Join the community — SECourses Discord" /></a>
 </p>
 
 <p align="center">
-  <a href="#featured-projects">Projects</a> · <a href="#courses">2026–2027 courses</a> · <a href="#research">Research</a> · <a href="#connect">Connect</a>
+  <a href="https://www.patreon.com/c/SECourses"><img src="https://img.shields.io/badge/Patreon-Become_a_member-F5BC78?style=for-the-badge&amp;logo=patreon&amp;logoColor=F5BC78&amp;labelColor=16263A" alt="Become a SECourses Patreon member" /></a>
+  <a href="https://github.com/sponsors/FurkanGozukara"><img src="https://img.shields.io/badge/GitHub-Sponsor_my_work-F9A8D4?style=for-the-badge&amp;logo=githubsponsors&amp;logoColor=F9A8D4&amp;labelColor=16263A" alt="Sponsor my work on GitHub" /></a>
 </p>
+
+<p align="center">
+  <a href="#statistics">Statistics</a> · <a href="#featured-projects">Projects</a> · <a href="#courses">2026–2027 courses</a> · <a href="#toolbox">Toolbox</a> · <a href="#research">Research</a> · <a href="#connect">Connect</a>
+</p>
+
+<a id="statistics"></a>
+
+## SECourses in numbers
+
+<p align="center">
+  <picture>
+    <source media="(max-width: 640px)" srcset="./assets/stats-dashboard-mobile.svg" />
+    <img src="./assets/stats-dashboard.svg" width="100%" alt="25 October 2026: 53.9K YouTube subscribers, 5.4M channel views, 12K+ Discord members, 267 public GitHub repositories, 2,781 AI hub stars, 88 Hugging Face model repositories, 68.5K Wan_GGUF downloads last month, 236 DEV posts, and 11 university-listed academic articles." />
+  </picture>
+</p>
+
+<details>
+<summary><strong>Statistics sources & exact figures · checked 25 October 2026</strong></summary>
+
+| Metric | Public figure | Source |
+| :--- | ---: | :--- |
+| YouTube subscribers | 53.9K | [SECourses channel](https://www.youtube.com/@SECourses) |
+| Published YouTube videos | 469 | [SECourses channel](https://www.youtube.com/@SECourses) |
+| Total YouTube channel views | 5,398,689 | [Channel information](https://www.youtube.com/@SECourses/about) |
+| Discord members | 12K+ | [SECourses community](https://discord.com/servers/software-engineering-courses-secourses-772774097734074388) |
+| Public GitHub repositories | 267 | [Public GitHub profile data](https://api.github.com/users/FurkanGozukara) |
+| GitHub followers | 1,246 | [Public GitHub profile data](https://api.github.com/users/FurkanGozukara) |
+| Stable-Diffusion hub stars / forks | 2,781 / 373 | [Repository data](https://api.github.com/repos/FurkanGozukara/Stable-Diffusion) |
+| Hugging Face model repositories | 88 | [MonsterMMORPG](https://huggingface.co/MonsterMMORPG) |
+| Wan_GGUF downloads in the last month | 68,531 | [Model repository](https://huggingface.co/MonsterMMORPG/Wan_GGUF) |
+| Published DEV posts | 236 | [DEV profile](https://dev.to/furkangozukara) |
+| Academic articles listed by the university | 11 | [Mersin University record](https://apbs.mersin.edu.tr/profiles_mail/furkangozukara) |
+
+These are dated public figures. Wan_GGUF downloads cover that model repository's rolling monthly window. The live counters and activity cards below may be newer or temporarily cached.
+
+</details>
+
+### Live GitHub & model counters
+
+<p align="center">
+  <a href="https://github.com/FurkanGozukara?tab=followers"><img src="https://img.shields.io/github/followers/FurkanGozukara?style=for-the-badge&amp;logo=github&amp;label=Followers&amp;labelColor=16263A&amp;color=5EEAD4" alt="GitHub followers" /></a>
+  <a href="https://github.com/FurkanGozukara?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FFurkanGozukara&amp;query=%24.public_repos&amp;label=Public%20repos&amp;style=for-the-badge&amp;logo=github&amp;labelColor=16263A&amp;color=5EEAD4" alt="Current public GitHub repository count" /></a>
+  <a href="https://github.com/FurkanGozukara/Stable-Diffusion/stargazers"><img src="https://img.shields.io/github/stars/FurkanGozukara/Stable-Diffusion?style=for-the-badge&amp;logo=github&amp;label=AI%20hub%20stars&amp;labelColor=16263A&amp;color=F5BC78" alt="Stable-Diffusion hub stars" /></a>
+  <a href="https://github.com/FurkanGozukara/Stable-Diffusion/forks"><img src="https://img.shields.io/github/forks/FurkanGozukara/Stable-Diffusion?style=for-the-badge&amp;logo=github&amp;label=Hub%20forks&amp;labelColor=16263A&amp;color=A5B4FC" alt="Stable-Diffusion hub forks" /></a>
+  <a href="https://huggingface.co/MonsterMMORPG/Wan_GGUF"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fhuggingface.co%2Fapi%2Fmodels%2FMonsterMMORPG%2FWan_GGUF&amp;query=%24.downloads&amp;label=Wan%20downloads%2Fmonth&amp;style=for-the-badge&amp;logo=huggingface&amp;labelColor=16263A&amp;color=F5BC78" alt="Wan_GGUF model downloads in the last month" /></a>
+</p>
+
+### Code, contributions & consistency
+
+<p align="center">
+  <a href="https://github.com/FurkanGozukara?tab=repositories"><img width="400" src="https://github-readme-stats.vercel.app/api?username=FurkanGozukara&amp;show_icons=true&amp;include_all_commits=true&amp;rank_icon=github&amp;hide_border=true&amp;bg_color=0D1729&amp;title_color=5EEAD4&amp;text_color=CBD5E1&amp;icon_color=F5BC78&amp;border_radius=16&amp;card_width=495" alt="Live GitHub statistics: stars, commits, pull requests, issues, and contributions" /></a>
+  <a href="https://github.com/FurkanGozukara?tab=repositories"><img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FurkanGozukara&amp;layout=compact&amp;langs_count=8&amp;hide_border=true&amp;bg_color=0D1729&amp;title_color=5EEAD4&amp;text_color=CBD5E1&amp;icon_color=F5BC78&amp;border_radius=16&amp;card_width=495" alt="Languages used across GitHub repositories" /></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/FurkanGozukara"><img width="580" src="https://streak-stats.demolab.com?user=FurkanGozukara&amp;theme=dark&amp;hide_border=true&amp;background=0D1729&amp;ring=5EEAD4&amp;fire=F5BC78&amp;currStreakLabel=5EEAD4&amp;border_radius=16" alt="GitHub contribution totals, current streak, and longest streak" /></a>
+</p>
+
+<sub>Cards refresh through external providers and can be cached. Language shares describe repository code, not proficiency.</sub>
 
 ## Start here
 
@@ -50,11 +109,13 @@ I build tools for the full workflow: **set up → prepare data → train → gen
 <table>
 <tr>
 <td width="50%" valign="top">
+<sub><strong>LEARN · EXPLORE</strong></sub>
 <h3><a href="https://github.com/FurkanGozukara/Stable-Diffusion">AI guides & workflows</a></h3>
 <p><strong>The SECourses knowledge base.</strong> Practical tutorials, installation guides, experiments, and resources for image, video, audio, training, and inference.</p>
 <p><a href="https://github.com/FurkanGozukara/Stable-Diffusion"><strong>Explore the hub →</strong></a></p>
 </td>
 <td width="50%" valign="top">
+<sub><strong>TRAIN · FINE-TUNE</strong></sub>
 <h3><a href="https://github.com/FurkanGozukara/SECourses_Musubi_Trainer">SECourses Musubi Trainer</a></h3>
 <p><strong>Train image and video models.</strong> LoRA/DoRA, supported full fine-tuning, GPU presets, model downloads, and checkpoint evaluation in a practical training environment.</p>
 <p><a href="https://github.com/FurkanGozukara/SECourses_Musubi_Trainer"><strong>Explore training →</strong></a></p>
@@ -62,11 +123,13 @@ I build tools for the full workflow: **set up → prepare data → train → gen
 </tr>
 <tr>
 <td width="50%" valign="top">
+<sub><strong>PREPARE · CLEAN</strong></sub>
 <h3><a href="https://github.com/FurkanGozukara/Ultimate_Image_Processor_Pro">Ultimate Image Processor Pro</a></h3>
 <p><strong>Build better training datasets.</strong> Batch crop and resize, segmentation and masking, face extraction, tiling, and duplicate cleanup.</p>
 <p><a href="https://github.com/FurkanGozukara/Ultimate_Image_Processor_Pro"><strong>Prepare images →</strong></a></p>
 </td>
 <td width="50%" valign="top">
+<sub><strong>CAPTION · ORGANIZE</strong></sub>
 <h3><a href="https://github.com/FurkanGozukara/Ultimate_Image_Captioner_Pro">Ultimate Image Captioner Pro</a></h3>
 <p><strong>Turn images into useful descriptions.</strong> Batch captions, editable JSON prompts, Qwen vision and JoyCaption models, reusable presets, and multi-GPU options.</p>
 <p><a href="https://github.com/FurkanGozukara/Ultimate_Image_Captioner_Pro"><strong>Explore captioning →</strong></a></p>
@@ -74,11 +137,13 @@ I build tools for the full workflow: **set up → prepare data → train → gen
 </tr>
 <tr>
 <td width="50%" valign="top">
+<sub><strong>INSTALL · GENERATE</strong></sub>
 <h3><a href="https://github.com/FurkanGozukara/SwarmUI-Auto-Installer-The-Ultimate-Image-and-Video-AI-Models-Downloader-For-Windows-RunPod-Cloud">SwarmUI setup & model downloads</a></h3>
 <p><strong>Get from installation to generation.</strong> Automated setup, curated image/video model downloads, and presets for Windows and cloud GPU environments.</p>
 <p><a href="https://github.com/FurkanGozukara/SwarmUI-Auto-Installer-The-Ultimate-Image-and-Video-AI-Models-Downloader-For-Windows-RunPod-Cloud"><strong>View setup options →</strong></a></p>
 </td>
 <td width="50%" valign="top">
+<sub><strong>RESEARCH · REPRODUCE</strong></sub>
 <h3><a href="https://github.com/FurkanGozukara/Research-Articles">Research articles & materials</a></h3>
 <p><strong>Explore the work behind the papers.</strong> Publications, theses, and supporting research materials spanning computer vision, optimization, record linkage, and more.</p>
 <p><a href="https://github.com/FurkanGozukara/Research-Articles"><strong>Browse research →</strong></a></p>
@@ -103,6 +168,35 @@ Structured courses with companion files, examples, and practical exercises. New 
 | **[Blender](https://github.com/FurkanGozukara/Blender-Full-Tutorial-Lecture-2026-2027)** | Build the Lumen Field Station through modeling, materials, and rendering, with project files and checkpoints for each released lecture. |
 
 [**Watch the lessons on YouTube →**](https://www.youtube.com/@SECourses)
+
+<a id="toolbox"></a>
+
+## My toolbox
+
+**AI & model engineering**
+
+<p>
+  <img src="https://img.shields.io/badge/Python-16263A?style=for-the-badge&amp;logo=python&amp;logoColor=5EEAD4" alt="Python" />
+  <img src="https://img.shields.io/badge/PyTorch-16263A?style=for-the-badge&amp;logo=pytorch&amp;logoColor=FB7185" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/CUDA-16263A?style=for-the-badge&amp;logo=nvidia&amp;logoColor=5EEAD4" alt="CUDA" />
+  <img src="https://img.shields.io/badge/Hugging_Face-16263A?style=for-the-badge&amp;logo=huggingface&amp;logoColor=F5BC78" alt="Hugging Face" />
+  <img src="https://img.shields.io/badge/LoRA_%26_DoRA-16263A?style=for-the-badge&amp;logoColor=white" alt="LoRA and DoRA" />
+  <img src="https://img.shields.io/badge/GGUF-16263A?style=for-the-badge" alt="GGUF quantization" />
+</p>
+
+**Generation, development & deployment**
+
+<p>
+  <img src="https://img.shields.io/badge/ComfyUI-16263A?style=for-the-badge&amp;logo=comfyui&amp;logoColor=5EEAD4" alt="ComfyUI" />
+  <img src="https://img.shields.io/badge/SwarmUI-16263A?style=for-the-badge" alt="SwarmUI" />
+  <img src="https://img.shields.io/badge/C%23-16263A?style=for-the-badge&amp;logo=dotnet&amp;logoColor=A5B4FC" alt="C sharp" />
+  <img src="https://img.shields.io/badge/.NET-16263A?style=for-the-badge&amp;logo=dotnet&amp;logoColor=A5B4FC" alt="dot NET" />
+  <img src="https://img.shields.io/badge/SQL_Server-16263A?style=for-the-badge" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/Git-16263A?style=for-the-badge&amp;logo=git&amp;logoColor=FB7185" alt="Git" />
+  <img src="https://img.shields.io/badge/RunPod-16263A?style=for-the-badge&amp;logo=runpod&amp;logoColor=F5BC78" alt="RunPod" />
+</p>
+
+I focus on reproducible workflows, efficient GPU use, useful datasets, and clear documentation.
 
 <a id="research"></a>
 
@@ -185,3 +279,4 @@ If my work helps you, star a repository, share a tutorial, or contribute a repro
   <strong>Research carefully. Benchmark fairly. Document everything.</strong><br />
   <sub>Make advanced technology accessible.</sub>
 </p>
+
