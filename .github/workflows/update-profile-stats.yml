@@ -1,0 +1,55 @@
+name: Update profile statistics
+
+on:
+  schedule:
+    - cron: '17 * * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - scripts/update_profile_stats.py
+      - tests/test_profile_stats.py
+      - .github/workflows/update-profile-stats.yml
+
+permissions:
+  contents: read
+
+concurrency:
+  group: profile-statistics
+  cancel-in-progress: false
+
+jobs:
+  update:
+    if: github.repository == 'FurkanGozukara/FurkanGozukara'
+    runs-on: ubuntu-latest
+    timeout-minutes: 8
+    permissions:
+      contents: write
+    steps:
+      - name: Check out the current profile
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          ref: main
+
+      - name: Verify source parsing and safe refresh behavior
+        run: python3 -m unittest discover -s tests -p 'test_profile_stats.py' -v
+
+      - name: Fetch public statistics and render dashboards
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+        run: python3 scripts/update_profile_stats.py
+
+      - name: Commit refreshed profile statistics
+        shell: bash
+        run: |
+          git add -- assets/stats-dashboard.svg assets/stats-dashboard-mobile.svg assets/profile-stats.json README.md
+          if git diff --cached --quiet; then
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "Refresh public profile statistics"
+          # Rebase once over concurrent edits. Conflicts fail safely; never force-push.
+          git fetch origin main
+          git rebase origin/main
+          git push origin HEAD:main
