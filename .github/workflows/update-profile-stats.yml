@@ -2,14 +2,9 @@ name: Update profile statistics
 
 on:
   schedule:
-    - cron: '17 * * * *'
+    # 00:17 UTC is 03:17 in Europe/Istanbul (TRT).
+    - cron: '17 0 * * *'
   workflow_dispatch:
-  push:
-    branches: [main]
-    paths:
-      - scripts/update_profile_stats.py
-      - tests/test_profile_stats.py
-      - .github/workflows/update-profile-stats.yml
 
 permissions:
   contents: read
