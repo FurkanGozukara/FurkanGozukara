@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="112" viewBox="0 0 400 112" role="img" aria-labelledby="title desc">
+  <title id="title">Explore AI Tools</title>
+  <desc id="desc">Guides and workflows in the SECourses AI knowledge base.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0C3547"/><stop offset="1" stop-color="#0B2339"/></linearGradient>
+    <linearGradient id="icon" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#75F1DB"/><stop offset="1" stop-color="#35C9DA"/></linearGradient>
+  </defs>
+  <rect x="1" y="1" width="398" height="110" rx="21" fill="url(#bg)" stroke="#35788A" stroke-width="2"/>
+  <path d="M23 2H377" stroke="#A1F7EE" stroke-opacity=".24" stroke-width="2"/>
+  <rect x="20" y="24" width="64" height="64" rx="17" fill="url(#icon)"/>
+  <path d="m42 43-11 13 11 13m20-26 11 13-11 13m-6-30-8 34" fill="none" stroke="#073344" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round"/>
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <text x="101" y="51" fill="#ECFFFE" font-size="29" font-weight="700" letter-spacing="-.4">Explore AI Tools</text>
+    <text x="102" y="78" fill="#A0CFDD" font-size="18">Guides &amp; workflows</text>
+  </g>
+  <path d="M359 56H377m-7-7 7 7-7 7" fill="none" stroke="#78ECDD" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
