@@ -699,7 +699,7 @@ def render_svg(state, mobile=False):
 def readme_block(state):
     revision = hashlib.sha256(json.dumps(state, sort_keys=True).encode()).hexdigest()[:12]
     description = "; ".join(LABELS[k] + ": " + exact_value(state["metrics"][k]) for k in DISPLAY_KEYS)
-    lines = [f'<p align="center">\n  <picture>\n    <source media="(max-width: 640px)" srcset="./assets/stats-dashboard-mobile.svg?v={revision}" />\n    <img src="./assets/stats-dashboard.svg?v={revision}" width="100%" alt="{escape(description, quote=True)}" />\n  </picture>\n</p>',
+    lines = [f'<p align="center">\n  <picture>\n    <source media="(max-width: 640px)" srcset="https://raw.githubusercontent.com/FurkanGozukara/FurkanGozukara/main/assets/stats-dashboard-mobile.svg?v={revision}" />\n    <img src="https://raw.githubusercontent.com/FurkanGozukara/FurkanGozukara/main/assets/stats-dashboard.svg?v={revision}" width="100%" alt="{escape(description, quote=True)}" />\n  </picture>\n</p>',
              f'**Automatically refreshed hourly** · Last run: **{local_time(state["generated_at"])}** · [Refresh status / run now]({WORKFLOW_URL})',
              '<details>\n<summary><strong>Statistics sources, exact figures & last successful checks</strong></summary>\n',
              '| Metric | Public figure | Last successful check (Türkiye) | Status | Source |',
