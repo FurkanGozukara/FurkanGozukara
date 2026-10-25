@@ -1,47 +1,60 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-labelledby="title desc">
-  <title id="title">SECourses — Research. Build. Teach.</title>
-  <desc id="desc">Dr. Furkan Gözükara. Making advanced AI practical. A navy banner with cyan and amber geometric connections.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">Dr. Furkan Gözükara — SECourses</title>
+  <desc id="desc">Making advanced AI practical. Research. Build. Teach. A navy, cyan and amber banner connecting research, tools and education.</desc>
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop stop-color="#0D1729"/><stop offset="1" stop-color="#122D40"/>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#07111F"/><stop offset=".55" stop-color="#0D2033"/><stop offset="1" stop-color="#12364A"/>
     </linearGradient>
-    <linearGradient id="accent" x1="0" x2="1">
-      <stop stop-color="#5EEAD4"/><stop offset="1" stop-color="#60A5FA"/>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#5EEAD4"/><stop offset=".65" stop-color="#60A5FA"/><stop offset="1" stop-color="#F5BC78"/>
     </linearGradient>
-    <radialGradient id="glow"><stop stop-color="#22D3EE" stop-opacity=".16"/><stop offset="1" stop-color="#22D3EE" stop-opacity="0"/></radialGradient>
-    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#94A3B8" stroke-opacity=".07"/></pattern>
-    <clipPath id="bounds"><rect width="1200" height="280" rx="18"/></clipPath>
+    <linearGradient id="core" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#193E50"/><stop offset="1" stop-color="#102B40"/></linearGradient>
+    <radialGradient id="glow"><stop stop-color="#22D3EE" stop-opacity=".20"/><stop offset="1" stop-color="#22D3EE" stop-opacity="0"/></radialGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#A4C4DB" stroke-opacity=".055"/></pattern>
+    <clipPath id="bounds"><rect width="1200" height="320" rx="20"/></clipPath>
   </defs>
   <g clip-path="url(#bounds)">
-    <rect width="1200" height="280" fill="url(#bg)"/>
-    <rect width="1200" height="280" fill="url(#grid)"/>
-    <ellipse cx="1050" cy="135" rx="400" ry="310" fill="url(#glow)"/>
-    <rect x="0" y="0" width="1200" height="4" fill="url(#accent)"/>
+    <rect width="1200" height="320" fill="url(#background)"/>
+    <rect width="1200" height="320" fill="url(#grid)"/>
+    <ellipse cx="1045" cy="160" rx="365" ry="290" fill="url(#glow)"/>
+    <rect width="1200" height="4" fill="url(#accent)"/>
+    <path d="M1199 319H20Q1 319 1 300V20Q1 1 20 1H1180Q1199 1 1199 20Z" fill="none" stroke="#83A9C5" stroke-opacity=".17"/>
     <g font-family="Segoe UI, Arial, sans-serif">
-      <rect x="48" y="34" width="30" height="30" rx="8" fill="#5EEAD4"/>
-      <path d="m58 42-5 7 5 7m10-14 5 7-5 7" fill="none" stroke="#0D1729" stroke-width="2.3" stroke-linecap="round" stroke-linejoin="round"/>
-      <text x="91" y="56" fill="#E2E8F0" font-size="21" font-weight="700" letter-spacing=".6">SECourses</text>
-      <text x="48" y="132" fill="#F8FAFC" font-size="52" font-weight="750" letter-spacing="-1.5">Research. Build. Teach.</text>
-      <text x="50" y="177" fill="#AFC7D8" font-size="23">Making advanced AI practical.</text>
-      <rect x="49" y="219" width="30" height="2" rx="1" fill="#F5BC78"/>
-      <text x="92" y="227" fill="#E2E8F0" font-size="17" font-weight="600" letter-spacing="2">DR. FURKAN GÖZÜKARA</text>
+      <rect x="48" y="32" width="36" height="36" rx="10" fill="#5EEAD4"/>
+      <path d="m60 42-7 8 7 8m12-16 7 8-7 8" fill="none" stroke="#082333" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+      <text x="98" y="58" fill="#F1F7FC" font-size="23" font-weight="700" letter-spacing=".5">SECourses</text>
+      <path d="M256 39V62" stroke="#5C788F" stroke-opacity=".6"/>
+      <text x="274" y="56" fill="#A9C5D9" font-size="15" font-weight="600" letter-spacing="2.1">OPEN TECHNICAL EDUCATION</text>
+      <text x="46" y="144" fill="#F8FAFC" font-size="60" font-weight="700" letter-spacing="-1.6">Dr. Furkan Gözükara</text>
+      <text x="49" y="188" fill="#BED3E5" font-size="26">Making advanced AI practical.</text>
+      <text x="49" y="247" fill="#7CEBD9" font-size="29" font-weight="700" letter-spacing="-.3">Research. Build. Teach.</text>
+      <text x="50" y="284" fill="#90AFC7" font-size="15" font-weight="600" letter-spacing="1.7">GENERATIVE AI</text>
+      <circle cx="214" cy="279" r="2.5" fill="#F5BC78"/>
+      <text x="232" y="284" fill="#90AFC7" font-size="15" font-weight="600" letter-spacing="1.7">OPEN SOURCE</text>
+      <circle cx="381" cy="279" r="2.5" fill="#F5BC78"/>
+      <text x="399" y="284" fill="#90AFC7" font-size="15" font-weight="600" letter-spacing="1.7">EDUCATION</text>
     </g>
-    <g fill="none" stroke="#5EEAD4">
-      <circle cx="1005" cy="140" r="96" stroke-opacity=".13"/>
-      <circle cx="1005" cy="140" r="69" stroke-opacity=".20" stroke-dasharray="4 9"/>
-      <path d="M872 74 1005 140 1119 68M872 208 1005 140 1119 214M1005 140V37" stroke-width="1.5" stroke-opacity=".4"/>
-      <path d="M872 74V208M1119 68V214" stroke-opacity=".15"/>
+    <path d="M782 48V272" stroke="#55758B" stroke-opacity=".26"/>
+    <g fill="none">
+      <circle cx="996" cy="160" r="112" stroke="#76B7D1" stroke-opacity=".13"/>
+      <circle cx="996" cy="160" r="84" stroke="#5EEAD4" stroke-opacity=".24" stroke-dasharray="3 8"/>
+      <path d="M861 78 996 160 1117 76M861 242 996 160 1122 248M996 160V44" stroke="#5EEAD4" stroke-width="1.7" stroke-opacity=".40"/>
+      <path d="M861 78V242M1117 76 1122 248" stroke="#A4C4DB" stroke-opacity=".15"/>
+      <path d="M917 81A112 112 0 0 1 1087 95" stroke="#5EEAD4" stroke-width="2.5" stroke-linecap="round" stroke-opacity=".60"/>
+      <path d="M1077 237A112 112 0 0 1 923 246" stroke="#F5BC78" stroke-width="2.5" stroke-linecap="round" stroke-opacity=".65"/>
     </g>
     <g font-family="Segoe UI, Arial, sans-serif" text-anchor="middle">
-      <rect x="960" y="95" width="90" height="90" rx="23" fill="#123846" stroke="#5EEAD4" stroke-opacity=".65"/>
-      <path d="m990 123-15 17 15 17m30-34 15 17-15 17m-10-40-10 46" fill="none" stroke="#8CF5E5" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
-      <rect x="829" y="56" width="86" height="36" rx="18" fill="#142B3D" stroke="#3B6178"/>
-      <text x="872" y="80" fill="#BFDFF1" font-size="13" font-weight="650" letter-spacing="1">RESEARCH</text>
-      <rect x="827" y="190" width="90" height="36" rx="18" fill="#142B3D" stroke="#3B6178"/>
-      <text x="872" y="214" fill="#BFDFF1" font-size="13" font-weight="650" letter-spacing="1">EDUCATION</text>
-      <circle cx="1119" cy="68" r="8" fill="#5EEAD4"/>
-      <circle cx="1119" cy="214" r="8" fill="#F5BC78"/>
-      <circle cx="1005" cy="37" r="4" fill="#60A5FA"/>
+      <rect x="944" y="108" width="104" height="104" rx="27" fill="url(#core)" stroke="#71DDDB" stroke-opacity=".70"/>
+      <rect x="952" y="116" width="88" height="88" rx="21" fill="none" stroke="#96D7E5" stroke-opacity=".12"/>
+      <path d="m981 140-17 20 17 20m30-40 17 20-17 20m-9-46-12 52" fill="none" stroke="#98F3E6" stroke-width="3.8" stroke-linecap="round" stroke-linejoin="round"/>
+      <rect x="810" y="58" width="102" height="40" rx="12" fill="#132D41" stroke="#4A718A"/>
+      <text x="861" y="84" fill="#D2E8F7" font-size="14" font-weight="700" letter-spacing=".6">RESEARCH</text>
+      <rect x="806" y="222" width="110" height="40" rx="12" fill="#132D41" stroke="#4A718A"/>
+      <text x="861" y="248" fill="#D2E8F7" font-size="14" font-weight="700" letter-spacing=".6">EDUCATION</text>
+      <rect x="1076" y="56" width="82" height="40" rx="12" fill="#143847" stroke="#54BDB8"/>
+      <text x="1117" y="82" fill="#A1F3E7" font-size="14" font-weight="700" letter-spacing=".8">TOOLS</text>
+      <circle cx="1122" cy="248" r="10" fill="#F5BC78"/><circle cx="1122" cy="248" r="18" fill="none" stroke="#F5BC78" stroke-opacity=".18"/>
+      <circle cx="996" cy="44" r="5" fill="#60A5FA"/><circle cx="996" cy="44" r="11" fill="none" stroke="#60A5FA" stroke-opacity=".18"/>
     </g>
   </g>
 </svg>
