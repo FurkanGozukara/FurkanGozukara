@@ -1,0 +1,108 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="1276" viewBox="0 0 600 1276" role="img" aria-labelledby="title desc">
+  <title id="title">SECourses community and impact statistics — mobile</title>
+  <desc id="desc">Public figures checked 25 October 2026: 53.9 thousand YouTube subscribers, 469 published videos, 5,398,689 total channel views, over 12 thousand Discord members, 267 public GitHub repositories, 2781 Stable-Diffusion stars, 88 Hugging Face model repositories, 68.5 thousand Wan_GGUF downloads last month, 236 DEV posts, and 11 academic articles in the Mersin University record.</desc>
+  <defs>
+    <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#112338"/><stop offset="1" stop-color="#0D192B"/></linearGradient>
+    <linearGradient id="highlight" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#2D2034"/><stop offset="1" stop-color="#112338"/></linearGradient>
+  </defs>
+  <rect width="600" height="1276" rx="22" fill="#091422"/>
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <text x="24" y="43" fill="#E2E8F0" font-size="27" font-weight="700" letter-spacing=".2">REACH. TOOLS. RESEARCH.</text>
+    <circle cx="29" cy="69" r="4" fill="#5EEAD4"/>
+    <text x="43" y="76" fill="#9DB6CC" font-size="22">25 OCTOBER 2026</text>
+
+    <g transform="translate(24 99)">
+      <rect x=".5" y=".5" width="551" height="184" rx="18" fill="url(#highlight)" stroke="#5A3549"/>
+      <rect x="24" width="88" height="4" rx="2" fill="#FB7185"/>
+      <g transform="translate(479 25) scale(1.4)" fill="none" stroke="#FB7185" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+        <rect x="2" y="6" width="28" height="21" rx="6"/><path d="m13 11 9 6-9 5z"/>
+      </g>
+      <text x="24" y="88" fill="#FB7185" font-size="84" font-weight="750" letter-spacing="-2">53.9K</text>
+      <text x="25" y="130" fill="#F1F5F9" font-size="30" font-weight="600">YouTube subscribers</text>
+      <text x="25" y="164" fill="#B7C8DA" font-size="22">SECourses · 469 published videos</text>
+    </g>
+
+  <g transform="translate(24 304)">
+    <rect x=".5" y=".5" width="267" height="209" rx="16" fill="url(#panel)" stroke="#284258"/>
+    <rect x="20" width="64" height="4" rx="2" fill="#F5BC78"/>
+    <g transform="translate(220 24)" fill="none" stroke="#F5BC78" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" opacity=".9"><path d="M1 17s6-10 15-10 15 10 15 10-6 10-15 10S1 17 1 17Z"/><circle cx="16" cy="17" r="4"/></g>
+    <text x="20" y="76" fill="#F5BC78" font-size="62" font-weight="750" letter-spacing="-1.3">5.4M</text>
+    <text x="20" y="114" fill="#F1F5F9" font-size="26" font-weight="600">YouTube views</text>
+    <text x="20" y="171" fill="#A8BDD1" font-size="21">5,398,689 total</text>
+    <text x="20" y="194" fill="#A8BDD1" font-size="21">channel views</text>
+  </g>
+  <g transform="translate(308 304)">
+    <rect x=".5" y=".5" width="267" height="209" rx="16" fill="url(#panel)" stroke="#284258"/>
+    <rect x="20" width="64" height="4" rx="2" fill="#A5B4FC"/>
+    <g transform="translate(220 24)" fill="none" stroke="#A5B4FC" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" opacity=".9"><path d="M6 4h20a4 4 0 0 1 4 4v15a4 4 0 0 1-4 4H13l-7 5v-5a4 4 0 0 1-4-4V8a4 4 0 0 1 4-4Z"/><path d="M9 13h14M9 19h9"/></g>
+    <text x="20" y="76" fill="#A5B4FC" font-size="62" font-weight="750" letter-spacing="-1.3">12K+</text>
+    <text x="20" y="114" fill="#F1F5F9" font-size="26" font-weight="600">Discord</text>
+    <text x="20" y="143" fill="#F1F5F9" font-size="26" font-weight="600">members</text>
+    <text x="20" y="171" fill="#A8BDD1" font-size="21">Software Engineering</text>
+    <text x="20" y="194" fill="#A8BDD1" font-size="21">Courses</text>
+  </g>
+  <g transform="translate(24 530)">
+    <rect x=".5" y=".5" width="267" height="209" rx="16" fill="url(#panel)" stroke="#284258"/>
+    <rect x="20" width="64" height="4" rx="2" fill="#5EEAD4"/>
+    <g transform="translate(220 24)" fill="none" stroke="#5EEAD4" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" opacity=".9"><path d="M5 3h20a2 2 0 0 1 2 2v25H7a4 4 0 0 1-4-4V7a4 4 0 0 1 4-4Z"/><path d="M3 25h24M11 3v12l4-3 4 3V3"/></g>
+    <text x="20" y="76" fill="#5EEAD4" font-size="62" font-weight="750" letter-spacing="-1.3">267</text>
+    <text x="20" y="114" fill="#F1F5F9" font-size="26" font-weight="600">Public</text>
+    <text x="20" y="143" fill="#F1F5F9" font-size="26" font-weight="600">repositories</text>
+    <text x="20" y="171" fill="#A8BDD1" font-size="21">AI tools, experiments</text>
+    <text x="20" y="194" fill="#A8BDD1" font-size="21">&amp; courses</text>
+  </g>
+  <g transform="translate(308 530)">
+    <rect x=".5" y=".5" width="267" height="209" rx="16" fill="url(#panel)" stroke="#284258"/>
+    <rect x="20" width="64" height="4" rx="2" fill="#F5BC78"/>
+    <g transform="translate(220 24)" fill="none" stroke="#F5BC78" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" opacity=".9"><path d="m16 2 4.4 9 10 1.5-7.2 7 1.7 10L16 25l-8.9 4.5 1.7-10-7.2-7 10-1.5Z"/></g>
+    <text x="20" y="76" fill="#F5BC78" font-size="62" font-weight="750" letter-spacing="-1.3">2,781</text>
+    <text x="20" y="114" fill="#F1F5F9" font-size="26" font-weight="600">AI hub stars</text>
+    <text x="20" y="171" fill="#A8BDD1" font-size="21">Stable-Diffusion</text>
+    <text x="20" y="194" fill="#A8BDD1" font-size="21">knowledge base</text>
+  </g>
+  <g transform="translate(24 756)">
+    <rect x=".5" y=".5" width="267" height="209" rx="16" fill="url(#panel)" stroke="#284258"/>
+    <rect x="20" width="64" height="4" rx="2" fill="#60A5FA"/>
+    <g transform="translate(220 24)" fill="none" stroke="#60A5FA" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" opacity=".9"><rect x="3" y="3" width="11" height="11" rx="2"/><rect x="20" y="3" width="11" height="11" rx="2"/><rect x="3" y="20" width="11" height="11" rx="2"/><rect x="20" y="20" width="11" height="11" rx="2"/></g>
+    <text x="20" y="76" fill="#60A5FA" font-size="62" font-weight="750" letter-spacing="-1.3">88</text>
+    <text x="20" y="114" fill="#F1F5F9" font-size="26" font-weight="600">Model</text>
+    <text x="20" y="143" fill="#F1F5F9" font-size="26" font-weight="600">repositories</text>
+    <text x="20" y="171" fill="#A8BDD1" font-size="21">Hugging Face</text>
+    <text x="20" y="194" fill="#A8BDD1" font-size="21">MonsterMMORPG</text>
+  </g>
+  <g transform="translate(308 756)">
+    <rect x=".5" y=".5" width="267" height="209" rx="16" fill="url(#panel)" stroke="#284258"/>
+    <rect x="20" width="64" height="4" rx="2" fill="#5EEAD4"/>
+    <g transform="translate(220 24)" fill="none" stroke="#5EEAD4" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" opacity=".9"><path d="M16 3v18m-7-7 7 7 7-7M4 22v8h24v-8"/></g>
+    <text x="20" y="76" fill="#5EEAD4" font-size="62" font-weight="750" letter-spacing="-1.3">68.5K</text>
+    <text x="20" y="114" fill="#F1F5F9" font-size="26" font-weight="600">Downloads</text>
+    <text x="20" y="143" fill="#F1F5F9" font-size="26" font-weight="600">last month</text>
+    <text x="20" y="171" fill="#A8BDD1" font-size="21">Wan_GGUF</text>
+    <text x="20" y="194" fill="#A8BDD1" font-size="21">model repository</text>
+  </g>
+  <g transform="translate(24 982)">
+    <rect x=".5" y=".5" width="267" height="209" rx="16" fill="url(#panel)" stroke="#284258"/>
+    <rect x="20" width="64" height="4" rx="2" fill="#A5B4FC"/>
+    <g transform="translate(220 24)" fill="none" stroke="#A5B4FC" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" opacity=".9"><path d="M6 2h14l7 7v23H6ZM20 2v8h7M11 16h11M11 22h11M11 27h7"/></g>
+    <text x="20" y="76" fill="#A5B4FC" font-size="62" font-weight="750" letter-spacing="-1.3">236</text>
+    <text x="20" y="114" fill="#F1F5F9" font-size="26" font-weight="600">Published</text>
+    <text x="20" y="143" fill="#F1F5F9" font-size="26" font-weight="600">DEV posts</text>
+    <text x="20" y="171" fill="#A8BDD1" font-size="21">Technical tutorials</text>
+    <text x="20" y="194" fill="#A8BDD1" font-size="21">&amp; articles</text>
+  </g>
+  <g transform="translate(308 982)">
+    <rect x=".5" y=".5" width="267" height="209" rx="16" fill="url(#panel)" stroke="#284258"/>
+    <rect x="20" width="64" height="4" rx="2" fill="#F5BC78"/>
+    <g transform="translate(220 24)" fill="none" stroke="#F5BC78" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" opacity=".9"><path d="m1 12 16-8 16 8-16 8Z"/><path d="M7 15v10c6 5 14 5 20 0V15M33 12v15"/></g>
+    <text x="20" y="76" fill="#F5BC78" font-size="62" font-weight="750" letter-spacing="-1.3">11</text>
+    <text x="20" y="114" fill="#F1F5F9" font-size="26" font-weight="600">Academic</text>
+    <text x="20" y="143" fill="#F1F5F9" font-size="26" font-weight="600">articles</text>
+    <text x="20" y="171" fill="#A8BDD1" font-size="21">Mersin University</text>
+    <text x="20" y="194" fill="#A8BDD1" font-size="21">record</text>
+  </g>
+
+    <text x="24" y="1226" fill="#91AAC1" font-size="20">Dated public snapshot</text>
+    <text x="24" y="1252" fill="#91AAC1" font-size="20">Live GitHub counters and analytics below.</text>
+  </g>
+</svg>
+
