@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="112" viewBox="0 0 400 112" role="img" aria-labelledby="title desc">
+  <title id="title">Watch Tutorials</title>
+  <desc id="desc">SECourses on YouTube.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#371B2A"/><stop offset="1" stop-color="#231727"/></linearGradient>
+    <linearGradient id="icon" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#FF6E7C"/><stop offset="1" stop-color="#EE4057"/></linearGradient>
+  </defs>
+  <rect x="1" y="1" width="398" height="110" rx="21" fill="url(#bg)" stroke="#914253" stroke-width="2"/>
+  <path d="M23 2H377" stroke="#FF9BA8" stroke-opacity=".24" stroke-width="2"/>
+  <rect x="20" y="24" width="64" height="64" rx="17" fill="url(#icon)"/>
+  <path d="M45 42 65 56 45 70Z" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="2" stroke-linejoin="round"/>
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <text x="101" y="51" fill="#FFF5F7" font-size="29" font-weight="700" letter-spacing="-.4">Watch Tutorials</text>
+    <text x="102" y="78" fill="#E8AFBC" font-size="18">SECourses on YouTube</text>
+  </g>
+  <path d="M359 56H377m-7-7 7 7-7 7" fill="none" stroke="#FF98A5" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
