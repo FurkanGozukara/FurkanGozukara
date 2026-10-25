@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-labelledby="title desc">
+  <title id="title">SECourses — Research. Build. Teach.</title>
+  <desc id="desc">Dr. Furkan Gözükara. Making advanced AI practical. A navy banner with cyan and amber geometric connections.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#0D1729"/><stop offset="1" stop-color="#122D40"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" x2="1">
+      <stop stop-color="#5EEAD4"/><stop offset="1" stop-color="#60A5FA"/>
+    </linearGradient>
+    <radialGradient id="glow"><stop stop-color="#22D3EE" stop-opacity=".16"/><stop offset="1" stop-color="#22D3EE" stop-opacity="0"/></radialGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#94A3B8" stroke-opacity=".07"/></pattern>
+    <clipPath id="bounds"><rect width="1200" height="280" rx="18"/></clipPath>
+  </defs>
+  <g clip-path="url(#bounds)">
+    <rect width="1200" height="280" fill="url(#bg)"/>
+    <rect width="1200" height="280" fill="url(#grid)"/>
+    <ellipse cx="1050" cy="135" rx="400" ry="310" fill="url(#glow)"/>
+    <rect x="0" y="0" width="1200" height="4" fill="url(#accent)"/>
+    <g font-family="Segoe UI, Arial, sans-serif">
+      <rect x="48" y="34" width="30" height="30" rx="8" fill="#5EEAD4"/>
+      <path d="m58 42-5 7 5 7m10-14 5 7-5 7" fill="none" stroke="#0D1729" stroke-width="2.3" stroke-linecap="round" stroke-linejoin="round"/>
+      <text x="91" y="56" fill="#E2E8F0" font-size="21" font-weight="700" letter-spacing=".6">SECourses</text>
+      <text x="48" y="132" fill="#F8FAFC" font-size="52" font-weight="750" letter-spacing="-1.5">Research. Build. Teach.</text>
+      <text x="50" y="177" fill="#AFC7D8" font-size="23">Making advanced AI practical.</text>
+      <rect x="49" y="219" width="30" height="2" rx="1" fill="#F5BC78"/>
+      <text x="92" y="227" fill="#E2E8F0" font-size="17" font-weight="600" letter-spacing="2">DR. FURKAN GÖZÜKARA</text>
+    </g>
+    <g fill="none" stroke="#5EEAD4">
+      <circle cx="1005" cy="140" r="96" stroke-opacity=".13"/>
+      <circle cx="1005" cy="140" r="69" stroke-opacity=".20" stroke-dasharray="4 9"/>
+      <path d="M872 74 1005 140 1119 68M872 208 1005 140 1119 214M1005 140V37" stroke-width="1.5" stroke-opacity=".4"/>
+      <path d="M872 74V208M1119 68V214" stroke-opacity=".15"/>
+    </g>
+    <g font-family="Segoe UI, Arial, sans-serif" text-anchor="middle">
+      <rect x="960" y="95" width="90" height="90" rx="23" fill="#123846" stroke="#5EEAD4" stroke-opacity=".65"/>
+      <path d="m990 123-15 17 15 17m30-34 15 17-15 17m-10-40-10 46" fill="none" stroke="#8CF5E5" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+      <rect x="829" y="56" width="86" height="36" rx="18" fill="#142B3D" stroke="#3B6178"/>
+      <text x="872" y="80" fill="#BFDFF1" font-size="13" font-weight="650" letter-spacing="1">RESEARCH</text>
+      <rect x="827" y="190" width="90" height="36" rx="18" fill="#142B3D" stroke="#3B6178"/>
+      <text x="872" y="214" fill="#BFDFF1" font-size="13" font-weight="650" letter-spacing="1">EDUCATION</text>
+      <circle cx="1119" cy="68" r="8" fill="#5EEAD4"/>
+      <circle cx="1119" cy="214" r="8" fill="#F5BC78"/>
+      <circle cx="1005" cy="37" r="4" fill="#60A5FA"/>
+    </g>
+  </g>
+</svg>
