@@ -1,25 +1,25 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="600" height="1276" viewBox="0 0 600 1276" role="img" aria-labelledby="title desc">
 <title id="title">SECourses automatically updated public statistics</title>
-<desc id="desc">YouTube subscribers: 53.9K (rounded by source); Total YouTube channel views: 5,407,136; Discord members: ≈ 12,023; Public GitHub repositories: 268; Stable-Diffusion hub stars: 2,781; Hugging Face model repositories: 88; Wan_GGUF downloads in the last month: 68,834; Published DEV posts: 236; University-listed academic articles: 11. Per-source check times and availability are listed in the README.</desc>
+<desc id="desc">YouTube subscribers: 53.9K (rounded by source); Total YouTube channel views: 5,408,562; Discord members: ≈ 12,025; Public GitHub repositories: 269; Stable-Diffusion hub stars: 2,780; Hugging Face model repositories: 88; Wan_GGUF downloads in the last month: 69,034; Published DEV posts: 236; University-listed academic articles: 11. Per-source check times and availability are listed in the README.</desc>
 <defs><linearGradient id="panel" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#112338"/><stop offset="1" stop-color="#0D192B"/></linearGradient><linearGradient id="highlight" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#2D2034"/><stop offset="1" stop-color="#112338"/></linearGradient></defs>
 <rect width="600" height="1276" rx="22" fill="#091422"/>
 <g font-family="Segoe UI, Arial, sans-serif">
 <text x="24" y="43" fill="#E2E8F0" font-size="27" font-weight="700">REACH. TOOLS. RESEARCH.</text>
 <circle cx="29" cy="69" r="4" fill="#5EEAD4"/>
-<text x="43" y="76" fill="#9DB6CC" font-size="20">28 OCT 2026 · 08:54 TRT</text>
+<text x="43" y="76" fill="#9DB6CC" font-size="20">29 OCT 2026 · 08:57 TRT</text>
 <g transform="translate(24 99)"><rect x=".5" y=".5" width="551" height="184" rx="18" fill="url(#highlight)" stroke="#5A3549"/>
 <rect x="24" width="88" height="4" rx="2" fill="#FB7185"/>
 <g transform="translate(479 25) scale(1.4)" fill="none" stroke="#FB7185" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="6" width="28" height="21" rx="6"/><path d="m13 11 9 6-9 5z"/></g>
 <text x="24" y="88" fill="#FB7185" font-size="84" font-weight="750">53.9K</text>
 <text x="25" y="130" fill="#F1F5F9" font-size="30" font-weight="600">YouTube subscribers</text>
-<text x="25" y="164" fill="#B7C8DA" font-size="22">SECourses · 471 published videos</text>
+<text x="25" y="164" fill="#B7C8DA" font-size="22">SECourses · 473 published videos</text>
 </g>
 <g transform="translate(24 304)"><rect x=".5" y=".5" width="267" height="209" rx="16" fill="url(#panel)" stroke="#284258"/>
 <rect x="20" width="64" height="4" rx="2" fill="#F5BC78"/>
 <g transform="translate(220 24)" fill="none" stroke="#F5BC78" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" opacity=".9"><path d="M1 17s6-10 15-10 15 10 15 10-6 10-15 10S1 17 1 17Z"/><circle cx="16" cy="17" r="4"/></g>
 <text x="20" y="76" fill="#F5BC78" font-size="62" font-weight="750" letter-spacing="-1.3">5.4M</text>
 <text x="20" y="114" fill="#F1F5F9" font-size="26" font-weight="600">YouTube views</text>
-<text x="20" y="171" fill="#A8BDD1" font-size="21">5,407,136 total</text>
+<text x="20" y="171" fill="#A8BDD1" font-size="21">5,408,562 total</text>
 <text x="20" y="194" fill="#A8BDD1" font-size="21">channel views</text>
 </g>
 <g transform="translate(308 304)"><rect x=".5" y=".5" width="267" height="209" rx="16" fill="url(#panel)" stroke="#284258"/>
@@ -34,7 +34,7 @@
 <g transform="translate(24 530)"><rect x=".5" y=".5" width="267" height="209" rx="16" fill="url(#panel)" stroke="#284258"/>
 <rect x="20" width="64" height="4" rx="2" fill="#5EEAD4"/>
 <g transform="translate(220 24)" fill="none" stroke="#5EEAD4" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" opacity=".9"><path d="M5 3h20a2 2 0 0 1 2 2v25H7a4 4 0 0 1-4-4V7a4 4 0 0 1 4-4Z"/><path d="M3 25h24M11 3v12l4-3 4 3V3"/></g>
-<text x="20" y="76" fill="#5EEAD4" font-size="62" font-weight="750" letter-spacing="-1.3">268</text>
+<text x="20" y="76" fill="#5EEAD4" font-size="62" font-weight="750" letter-spacing="-1.3">269</text>
 <text x="20" y="114" fill="#F1F5F9" font-size="26" font-weight="600">Public</text>
 <text x="20" y="143" fill="#F1F5F9" font-size="26" font-weight="600">repositories</text>
 <text x="20" y="171" fill="#A8BDD1" font-size="21">AI tools, experiments</text>
@@ -43,7 +43,7 @@
 <g transform="translate(308 530)"><rect x=".5" y=".5" width="267" height="209" rx="16" fill="url(#panel)" stroke="#284258"/>
 <rect x="20" width="64" height="4" rx="2" fill="#F5BC78"/>
 <g transform="translate(220 24)" fill="none" stroke="#F5BC78" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" opacity=".9"><path d="m16 2 4.4 9 10 1.5-7.2 7 1.7 10L16 25l-8.9 4.5 1.7-10-7.2-7 10-1.5Z"/></g>
-<text x="20" y="76" fill="#F5BC78" font-size="62" font-weight="750" letter-spacing="-1.3">2,781</text>
+<text x="20" y="76" fill="#F5BC78" font-size="62" font-weight="750" letter-spacing="-1.3">2,780</text>
 <text x="20" y="114" fill="#F1F5F9" font-size="26" font-weight="600">AI hub stars</text>
 <text x="20" y="171" fill="#A8BDD1" font-size="21">Stable-Diffusion</text>
 <text x="20" y="194" fill="#A8BDD1" font-size="21">knowledge base</text>
@@ -60,7 +60,7 @@
 <g transform="translate(308 756)"><rect x=".5" y=".5" width="267" height="209" rx="16" fill="url(#panel)" stroke="#284258"/>
 <rect x="20" width="64" height="4" rx="2" fill="#5EEAD4"/>
 <g transform="translate(220 24)" fill="none" stroke="#5EEAD4" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" opacity=".9"><path d="M16 3v18m-7-7 7 7 7-7M4 22v8h24v-8"/></g>
-<text x="20" y="76" fill="#5EEAD4" font-size="62" font-weight="750" letter-spacing="-1.3">68.8K</text>
+<text x="20" y="76" fill="#5EEAD4" font-size="62" font-weight="750" letter-spacing="-1.3">69K</text>
 <text x="20" y="114" fill="#F1F5F9" font-size="26" font-weight="600">Downloads</text>
 <text x="20" y="143" fill="#F1F5F9" font-size="26" font-weight="600">last month</text>
 <text x="20" y="171" fill="#A8BDD1" font-size="21">Wan_GGUF</text>
