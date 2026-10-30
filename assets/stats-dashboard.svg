@@ -1,25 +1,25 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="548" viewBox="0 0 1200 548" role="img" aria-labelledby="title desc">
 <title id="title">SECourses automatically updated public statistics</title>
-<desc id="desc">YouTube subscribers: 53.9K (rounded by source); Total YouTube channel views: 5,408,562; Discord members: ≈ 12,025; Public GitHub repositories: 269; Stable-Diffusion hub stars: 2,780; Hugging Face model repositories: 88; Wan_GGUF downloads in the last month: 69,034; Published DEV posts: 236; University-listed academic articles: 11. Per-source check times and availability are listed in the README.</desc>
+<desc id="desc">YouTube subscribers: 53.9K (rounded by source); Total YouTube channel views: 5,411,772; Discord members: ≈ 12,026; Public GitHub repositories: 269; Stable-Diffusion hub stars: 2,781; Hugging Face model repositories: 88; Wan_GGUF downloads in the last month: 68,976; Published DEV posts: 236; University-listed academic articles: 11. Per-source check times and availability are listed in the README.</desc>
 <defs><linearGradient id="panel" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#112338"/><stop offset="1" stop-color="#0D192B"/></linearGradient><linearGradient id="highlight" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#2D2034"/><stop offset="1" stop-color="#112338"/></linearGradient></defs>
 <rect width="1200" height="548" rx="22" fill="#091422"/>
 <g font-family="Segoe UI, Arial, sans-serif">
 <text x="28" y="44" fill="#E2E8F0" font-size="22" font-weight="700">REACH. TOOLS. RESEARCH.</text>
 <circle cx="952" cy="37" r="4" fill="#5EEAD4"/>
-<text x="1174" y="43" fill="#91A9BE" font-size="16" text-anchor="end">29 OCT 2026 · 08:57 TRT</text>
+<text x="1174" y="43" fill="#91A9BE" font-size="16" text-anchor="end">30 OCT 2026 · 08:58 TRT</text>
 <g transform="translate(24 70)"><rect x=".5" y=".5" width="367" height="131" rx="14" fill="url(#panel)" stroke="#20374C"/>
 <rect x="18" width="60" height="3" rx="1.5" fill="#FB7185"/>
 <g transform="translate(313 21) scale(.8)" fill="none" stroke="#FB7185" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" opacity=".85"><rect x="2" y="6" width="28" height="21" rx="6"/><path d="m13 11 9 6-9 5z"/></g>
 <text x="22" y="57" fill="#FB7185" font-size="46" font-weight="750">53.9K</text>
 <text x="22" y="88" fill="#F1F5F9" font-size="20" font-weight="600">YouTube subscribers</text>
-<text x="22" y="113" fill="#9FB3C8" font-size="14">SECourses · 473 published videos</text>
+<text x="22" y="113" fill="#9FB3C8" font-size="14">SECourses · 474 published videos</text>
 </g>
 <g transform="translate(416 70)"><rect x=".5" y=".5" width="367" height="131" rx="14" fill="url(#panel)" stroke="#20374C"/>
 <rect x="18" width="60" height="3" rx="1.5" fill="#F5BC78"/>
 <g transform="translate(313 21) scale(.8)" fill="none" stroke="#F5BC78" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" opacity=".85"><path d="M1 17s6-10 15-10 15 10 15 10-6 10-15 10S1 17 1 17Z"/><circle cx="16" cy="17" r="4"/></g>
 <text x="22" y="57" fill="#F5BC78" font-size="46" font-weight="750">5.4M</text>
 <text x="22" y="88" fill="#F1F5F9" font-size="20" font-weight="600">YouTube views</text>
-<text x="22" y="113" fill="#9FB3C8" font-size="14">5,408,562 total channel views</text>
+<text x="22" y="113" fill="#9FB3C8" font-size="14">5,411,772 total channel views</text>
 </g>
 <g transform="translate(808 70)"><rect x=".5" y=".5" width="367" height="131" rx="14" fill="url(#panel)" stroke="#20374C"/>
 <rect x="18" width="60" height="3" rx="1.5" fill="#A5B4FC"/>
@@ -38,7 +38,7 @@
 <g transform="translate(416 218)"><rect x=".5" y=".5" width="367" height="131" rx="14" fill="url(#panel)" stroke="#20374C"/>
 <rect x="18" width="60" height="3" rx="1.5" fill="#F5BC78"/>
 <g transform="translate(313 21) scale(.8)" fill="none" stroke="#F5BC78" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" opacity=".85"><path d="m16 2 4.4 9 10 1.5-7.2 7 1.7 10L16 25l-8.9 4.5 1.7-10-7.2-7 10-1.5Z"/></g>
-<text x="22" y="57" fill="#F5BC78" font-size="46" font-weight="750">2,780</text>
+<text x="22" y="57" fill="#F5BC78" font-size="46" font-weight="750">2,781</text>
 <text x="22" y="88" fill="#F1F5F9" font-size="20" font-weight="600">AI hub stars</text>
 <text x="22" y="113" fill="#9FB3C8" font-size="14">Stable-Diffusion knowledge base</text>
 </g>
