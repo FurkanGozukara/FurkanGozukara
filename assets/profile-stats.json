@@ -1,63 +1,63 @@
 {
-  "generated_at": "2026-11-03T06:57:32Z",
+  "generated_at": "2026-11-04T06:39:11Z",
   "metrics": {
     "academic_articles": {
-      "checked_at": "2026-11-03T06:57:32Z",
+      "checked_at": "2026-11-04T06:39:11Z",
       "source": "https://apbs.mersin.edu.tr/profiles_mail/furkangozukara",
       "status": "fresh",
       "value": 11
     },
     "dev_posts": {
-      "checked_at": "2026-11-03T06:57:32Z",
+      "checked_at": "2026-11-04T06:39:11Z",
       "source": "https://dev.to/furkangozukara",
       "status": "fresh",
       "value": 236
     },
     "discord_members": {
-      "checked_at": "2026-11-03T06:57:32Z",
+      "checked_at": "2026-11-04T06:39:11Z",
       "precision": "approximate",
       "source": "https://discord.com/servers/software-engineering-courses-secourses-772774097734074388",
       "status": "fresh",
-      "value": 12026
+      "value": 12024
     },
     "github_followers": {
-      "checked_at": "2026-11-03T06:57:32Z",
+      "checked_at": "2026-11-04T06:39:11Z",
       "source": "https://api.github.com/users/FurkanGozukara",
       "status": "fresh",
       "value": 1249
     },
     "github_repos": {
-      "checked_at": "2026-11-03T06:57:32Z",
+      "checked_at": "2026-11-04T06:39:11Z",
       "source": "https://api.github.com/users/FurkanGozukara",
       "status": "fresh",
       "value": 269
     },
     "hf_models": {
-      "checked_at": "2026-11-03T06:57:32Z",
+      "checked_at": "2026-11-04T06:39:11Z",
       "source": "https://huggingface.co/MonsterMMORPG",
       "status": "fresh",
       "value": 88
     },
     "hub_forks": {
-      "checked_at": "2026-11-03T06:57:32Z",
+      "checked_at": "2026-11-04T06:39:11Z",
       "source": "https://api.github.com/repos/FurkanGozukara/Stable-Diffusion",
       "status": "fresh",
       "value": 374
     },
     "hub_stars": {
-      "checked_at": "2026-11-03T06:57:32Z",
+      "checked_at": "2026-11-04T06:39:11Z",
       "source": "https://api.github.com/repos/FurkanGozukara/Stable-Diffusion",
       "status": "fresh",
-      "value": 2780
+      "value": 2781
     },
     "wan_downloads": {
-      "checked_at": "2026-11-03T06:57:32Z",
+      "checked_at": "2026-11-04T06:39:11Z",
       "source": "https://huggingface.co/MonsterMMORPG/Wan_GGUF",
       "status": "fresh",
-      "value": 71322
+      "value": 73414
     },
     "youtube_subscribers": {
-      "checked_at": "2026-11-03T06:57:32Z",
+      "checked_at": "2026-11-04T06:39:11Z",
       "display": "53.9K",
       "precision": "rounded",
       "source": "https://www.youtube.com/channel/UCKzrgTDEZjOolJAshjgvSKw/about?hl=en",
@@ -65,16 +65,16 @@
       "value": 53900
     },
     "youtube_videos": {
-      "checked_at": "2026-11-03T06:57:32Z",
+      "checked_at": "2026-11-04T06:39:11Z",
       "source": "https://www.youtube.com/channel/UCKzrgTDEZjOolJAshjgvSKw/about?hl=en",
       "status": "fresh",
-      "value": 480
+      "value": 481
     },
     "youtube_views": {
-      "checked_at": "2026-11-03T06:57:32Z",
+      "checked_at": "2026-11-04T06:39:11Z",
       "source": "https://www.youtube.com/channel/UCKzrgTDEZjOolJAshjgvSKw/about?hl=en",
       "status": "fresh",
-      "value": 5429247
+      "value": 5430721
     }
   },
   "schema_version": 1,
