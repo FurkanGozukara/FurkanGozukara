@@ -1,63 +1,63 @@
 {
-  "generated_at": "2026-11-04T06:39:11Z",
+  "generated_at": "2026-11-05T06:58:52Z",
   "metrics": {
     "academic_articles": {
-      "checked_at": "2026-11-04T06:39:11Z",
+      "checked_at": "2026-11-05T06:58:52Z",
       "source": "https://apbs.mersin.edu.tr/profiles_mail/furkangozukara",
       "status": "fresh",
       "value": 11
     },
     "dev_posts": {
-      "checked_at": "2026-11-04T06:39:11Z",
+      "checked_at": "2026-11-05T06:58:52Z",
       "source": "https://dev.to/furkangozukara",
       "status": "fresh",
-      "value": 236
+      "value": 237
     },
     "discord_members": {
-      "checked_at": "2026-11-04T06:39:11Z",
+      "checked_at": "2026-11-05T06:58:52Z",
       "precision": "approximate",
       "source": "https://discord.com/servers/software-engineering-courses-secourses-772774097734074388",
       "status": "fresh",
-      "value": 12024
+      "value": 12021
     },
     "github_followers": {
-      "checked_at": "2026-11-04T06:39:11Z",
+      "checked_at": "2026-11-05T06:58:52Z",
       "source": "https://api.github.com/users/FurkanGozukara",
       "status": "fresh",
-      "value": 1249
+      "value": 1250
     },
     "github_repos": {
-      "checked_at": "2026-11-04T06:39:11Z",
+      "checked_at": "2026-11-05T06:58:52Z",
       "source": "https://api.github.com/users/FurkanGozukara",
       "status": "fresh",
-      "value": 269
+      "value": 270
     },
     "hf_models": {
-      "checked_at": "2026-11-04T06:39:11Z",
+      "checked_at": "2026-11-05T06:58:52Z",
       "source": "https://huggingface.co/MonsterMMORPG",
       "status": "fresh",
       "value": 88
     },
     "hub_forks": {
-      "checked_at": "2026-11-04T06:39:11Z",
+      "checked_at": "2026-11-05T06:58:52Z",
       "source": "https://api.github.com/repos/FurkanGozukara/Stable-Diffusion",
       "status": "fresh",
       "value": 374
     },
     "hub_stars": {
-      "checked_at": "2026-11-04T06:39:11Z",
+      "checked_at": "2026-11-05T06:58:52Z",
       "source": "https://api.github.com/repos/FurkanGozukara/Stable-Diffusion",
       "status": "fresh",
       "value": 2781
     },
     "wan_downloads": {
-      "checked_at": "2026-11-04T06:39:11Z",
+      "checked_at": "2026-11-05T06:58:52Z",
       "source": "https://huggingface.co/MonsterMMORPG/Wan_GGUF",
       "status": "fresh",
-      "value": 73414
+      "value": 72531
     },
     "youtube_subscribers": {
-      "checked_at": "2026-11-04T06:39:11Z",
+      "checked_at": "2026-11-05T06:58:52Z",
       "display": "53.9K",
       "precision": "rounded",
       "source": "https://www.youtube.com/channel/UCKzrgTDEZjOolJAshjgvSKw/about?hl=en",
@@ -65,16 +65,16 @@
       "value": 53900
     },
     "youtube_videos": {
-      "checked_at": "2026-11-04T06:39:11Z",
+      "checked_at": "2026-11-05T06:58:52Z",
       "source": "https://www.youtube.com/channel/UCKzrgTDEZjOolJAshjgvSKw/about?hl=en",
       "status": "fresh",
-      "value": 481
+      "value": 483
     },
     "youtube_views": {
-      "checked_at": "2026-11-04T06:39:11Z",
+      "checked_at": "2026-11-05T06:58:52Z",
       "source": "https://www.youtube.com/channel/UCKzrgTDEZjOolJAshjgvSKw/about?hl=en",
       "status": "fresh",
-      "value": 5430721
+      "value": 5435431
     }
   },
   "schema_version": 1,
