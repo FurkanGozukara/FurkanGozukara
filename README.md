@@ -45,30 +45,30 @@ The profile-statistics workflow refreshes them daily; image providers handle the
 
 <p align="center">
   <picture>
-    <source media="(max-width: 640px)" srcset="https://raw.githubusercontent.com/FurkanGozukara/FurkanGozukara/main/assets/stats-dashboard-mobile.svg?v=7ba406469bb1" />
-    <img src="https://raw.githubusercontent.com/FurkanGozukara/FurkanGozukara/main/assets/stats-dashboard.svg?v=7ba406469bb1" width="100%" alt="YouTube subscribers: 54K (rounded by source); Total YouTube channel views: 5,480,285; Discord members: ≈ 12,042; Public GitHub repositories: 271; Stable-Diffusion hub stars: 2,788; Hugging Face model repositories: 90; Wan_GGUF downloads in the last month: 74,819; Published DEV posts: 239; University-listed academic articles: 11" />
+    <source media="(max-width: 640px)" srcset="https://raw.githubusercontent.com/FurkanGozukara/FurkanGozukara/main/assets/stats-dashboard-mobile.svg?v=4eba2e405894" />
+    <img src="https://raw.githubusercontent.com/FurkanGozukara/FurkanGozukara/main/assets/stats-dashboard.svg?v=4eba2e405894" width="100%" alt="YouTube subscribers: 54K (rounded by source); Total YouTube channel views: 5,483,115; Discord members: ≈ 12,038; Public GitHub repositories: 271; Stable-Diffusion hub stars: 2,788; Hugging Face model repositories: 90; Wan_GGUF downloads in the last month: 73,474; Published DEV posts: 239; University-listed academic articles: 11" />
   </picture>
 </p>
 
-**Automatically refreshed daily** · Last run: **18 Nov 2026 · 10:40 TRT** · [Refresh status / run now](https://github.com/FurkanGozukara/FurkanGozukara/actions/workflows/update-profile-stats.yml)
+**Automatically refreshed daily** · Last run: **19 Nov 2026 · 10:37 TRT** · [Refresh status / run now](https://github.com/FurkanGozukara/FurkanGozukara/actions/workflows/update-profile-stats.yml)
 
 <details>
 <summary><strong>Statistics sources, exact figures & last successful checks</strong></summary>
 
 | Metric | Public figure | Last successful check (Türkiye) | Status | Source |
 | :--- | ---: | :--- | :--- | :--- |
-| YouTube subscribers | 54K (rounded by source) | 18 Nov 2026 · 10:40 TRT | Updated | [Public source](https://www.youtube.com/channel/UCKzrgTDEZjOolJAshjgvSKw/about?hl=en) |
-| Published YouTube videos | 502 | 18 Nov 2026 · 10:40 TRT | Updated | [Public source](https://www.youtube.com/channel/UCKzrgTDEZjOolJAshjgvSKw/about?hl=en) |
-| Total YouTube channel views | 5,480,285 | 18 Nov 2026 · 10:40 TRT | Updated | [Public source](https://www.youtube.com/channel/UCKzrgTDEZjOolJAshjgvSKw/about?hl=en) |
-| Discord members | ≈ 12,042 | 18 Nov 2026 · 10:40 TRT | Updated | [Public source](https://discord.com/servers/software-engineering-courses-secourses-772774097734074388) |
-| Public GitHub repositories | 271 | 18 Nov 2026 · 10:40 TRT | Updated | [Public source](https://api.github.com/users/FurkanGozukara) |
-| GitHub followers | 1,254 | 18 Nov 2026 · 10:40 TRT | Updated | [Public source](https://api.github.com/users/FurkanGozukara) |
-| Stable-Diffusion hub stars | 2,788 | 18 Nov 2026 · 10:40 TRT | Updated | [Public source](https://api.github.com/repos/FurkanGozukara/Stable-Diffusion) |
-| Stable-Diffusion hub forks | 375 | 18 Nov 2026 · 10:40 TRT | Updated | [Public source](https://api.github.com/repos/FurkanGozukara/Stable-Diffusion) |
-| Hugging Face model repositories | 90 | 18 Nov 2026 · 10:40 TRT | Updated | [Public source](https://huggingface.co/MonsterMMORPG) |
-| Wan_GGUF downloads in the last month | 74,819 | 18 Nov 2026 · 10:40 TRT | Updated | [Public source](https://huggingface.co/MonsterMMORPG/Wan_GGUF) |
-| Published DEV posts | 239 | 18 Nov 2026 · 10:40 TRT | Updated | [Public source](https://dev.to/furkangozukara) |
-| University-listed academic articles | 11 | 18 Nov 2026 · 10:40 TRT | Updated | [Public source](https://apbs.mersin.edu.tr/profiles_mail/furkangozukara) |
+| YouTube subscribers | 54K (rounded by source) | 19 Nov 2026 · 10:37 TRT | Updated | [Public source](https://www.youtube.com/channel/UCKzrgTDEZjOolJAshjgvSKw/about?hl=en) |
+| Published YouTube videos | 504 | 19 Nov 2026 · 10:37 TRT | Updated | [Public source](https://www.youtube.com/channel/UCKzrgTDEZjOolJAshjgvSKw/about?hl=en) |
+| Total YouTube channel views | 5,483,115 | 19 Nov 2026 · 10:37 TRT | Updated | [Public source](https://www.youtube.com/channel/UCKzrgTDEZjOolJAshjgvSKw/about?hl=en) |
+| Discord members | ≈ 12,038 | 19 Nov 2026 · 10:37 TRT | Updated | [Public source](https://discord.com/servers/software-engineering-courses-secourses-772774097734074388) |
+| Public GitHub repositories | 271 | 19 Nov 2026 · 10:37 TRT | Updated | [Public source](https://api.github.com/users/FurkanGozukara) |
+| GitHub followers | 1,254 | 19 Nov 2026 · 10:37 TRT | Updated | [Public source](https://api.github.com/users/FurkanGozukara) |
+| Stable-Diffusion hub stars | 2,788 | 19 Nov 2026 · 10:37 TRT | Updated | [Public source](https://api.github.com/repos/FurkanGozukara/Stable-Diffusion) |
+| Stable-Diffusion hub forks | 375 | 19 Nov 2026 · 10:37 TRT | Updated | [Public source](https://api.github.com/repos/FurkanGozukara/Stable-Diffusion) |
+| Hugging Face model repositories | 90 | 19 Nov 2026 · 10:37 TRT | Updated | [Public source](https://huggingface.co/MonsterMMORPG) |
+| Wan_GGUF downloads in the last month | 73,474 | 19 Nov 2026 · 10:37 TRT | Updated | [Public source](https://huggingface.co/MonsterMMORPG/Wan_GGUF) |
+| Published DEV posts | 239 | 19 Nov 2026 · 10:37 TRT | Updated | [Public source](https://dev.to/furkangozukara) |
+| University-listed academic articles | 11 | 18 Nov 2026 · 10:40 TRT | Awaiting refresh; last valid value | [Public source](https://apbs.mersin.edu.tr/profiles_mail/furkangozukara) |
 
 YouTube subscriber counts are rounded by YouTube. Discord membership is approximate. Wan_GGUF downloads cover that model repository’s rolling monthly window. Academic articles are those listed in the university record.
 
